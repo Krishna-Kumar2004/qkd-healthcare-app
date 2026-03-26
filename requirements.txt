@@ -1,0 +1,5 @@
+streamlit
+qiskit==0.45.0
+qiskit-aer
+numpy
+pandas
